@@ -1,0 +1,30 @@
+_repo: Ruth-Fielding-In-the-SaddleCollege-Girls-in-the-Land-of-Gold_36396
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: ''
+gutenberg_issued: '2011-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fielding, Ruth (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Motion picture authorship -- Juvenile fiction'
+- !lcsh 'Arizona -- Juvenile fiction'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- !lcc 'PZ'
+title: Ruth Fielding In the Saddle; Or, College Girls in the Land of Gold
+url: http://www.gutenberg.org/ebooks/36396
